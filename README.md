@@ -1,4 +1,4 @@
-# temp_file_cleaner
+# temp-file-cleaner
 Deletes your temp and %temp% junk folders.
 
 ## How to use:
